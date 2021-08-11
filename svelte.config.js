@@ -1,3 +1,4 @@
+import sveltePreprocess from 'svelte-preprocess';
 import adapt from '@sveltejs/adapter-static';
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
